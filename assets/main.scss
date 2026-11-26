@@ -1,0 +1,33 @@
+---
+---
+@import "minima";
+
+/* Notes have no front matter, so Pages derives page.title from the note's
+   first "#" heading and minima prints it again above the body, where the same
+   heading renders a second time. Keep the in-body heading and drop the copy. */
+.post-title {
+  display: none;
+}
+
+.post table img {
+  width: 300px;
+  max-width: 55vw;
+  height: auto;
+}
+
+.post table td {
+  vertical-align: top;
+}
+
+.site-nav .card-select {
+  margin-left: 12px;
+  padding: 4px 6px;
+  font: inherit;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #111;
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  vertical-align: middle;
+}
