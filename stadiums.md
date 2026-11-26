@@ -7,6 +7,8 @@ layout: page
 
 207 card lists — Stadium cards by name.
 
+{% include jump.html folder="by-stadium/" label="Choose a Stadium…" %}
+
 <a href="by-stadium/academy-at-night.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/560365_in_1000x1000.jpg" width="180"></a>
 
 [Academy at Night](by-stadium/academy-at-night.html) — 1 product in 1 set, 1 design

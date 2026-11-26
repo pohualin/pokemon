@@ -7,6 +7,8 @@ layout: page
 
 405 card lists — Item cards by name.
 
+{% include jump.html folder="by-item/" label="Choose an Item…" %}
+
 <a href="by-item/accompanying-flute.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/550186_in_1000x1000.jpg" width="180"></a>
 
 [Accompanying Flute](by-item/accompanying-flute.html) — 1 product in 1 set, 1 design

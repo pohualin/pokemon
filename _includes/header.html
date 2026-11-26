@@ -23,28 +23,6 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-
-          <select class="card-select" aria-label="Jump to a Pokémon's card list"
-                  onchange="if (this.value) location.href = this.value;">
-            <option value="" {% unless page.path contains "by-pokemon/" %}selected{% endunless %} disabled>Choose a Pokémon…</option>
-            {%- for p in site.pages -%}
-            {%- if p.path contains "by-pokemon/" -%}
-            {%- assign card_name = p.title | strip -%}
-            <option value="{{ p.url | relative_url }}" {% if p.url == page.url %}selected{% endif %}>{{ card_name | escape }}</option>
-            {%- endif -%}
-            {%- endfor -%}
-          </select>
-
-          <select class="card-select" aria-label="Jump to a rarity's card list"
-                  onchange="if (this.value) location.href = this.value;">
-            <option value="" {% unless page.path contains "by-rarity/" %}selected{% endunless %} disabled>Choose a rarity…</option>
-            {%- for p in site.pages -%}
-            {%- if p.path contains "by-rarity/" -%}
-            {%- assign rarity_name = p.title | strip -%}
-            <option value="{{ p.url | relative_url }}" {% if p.url == page.url %}selected{% endif %}>{{ rarity_name | escape }}</option>
-            {%- endif -%}
-            {%- endfor -%}
-          </select>
         </div>
       </nav>
     {%- endif -%}

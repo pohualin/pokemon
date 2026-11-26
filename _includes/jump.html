@@ -1,0 +1,13 @@
+{%- comment -%}
+  Jump list for a section page. Pass folder (the notes directory, with a
+  trailing slash) and label (the placeholder text).
+{%- endcomment -%}
+{%- assign jump_pages = site.pages | where_exp: "p", "p.path contains include.folder" | sort: "title" -%}
+<select class="jump-select" aria-label="{{ include.label | escape }}"
+        onchange="if (this.value) location.href = this.value;">
+  <option value="" selected disabled>{{ include.label }}</option>
+  {%- for p in jump_pages -%}
+  {%- comment -%} jekyll-titles-from-headings already HTML-escapes the title {%- endcomment -%}
+  <option value="{{ p.url | relative_url }}">{{ p.title | strip }}</option>
+  {%- endfor -%}
+</select>

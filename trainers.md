@@ -7,6 +7,8 @@ layout: page
 
 457 card lists — Supporter cards by name.
 
+{% include jump.html folder="by-trainer/" label="Choose a Trainer…" %}
+
 <a href="by-trainer/aaron-collection.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/83439_in_1000x1000.jpg" width="180"></a>
 
 [Aaron's Collection](by-trainer/aaron-collection.html) — 3 products across 2 sets, 1 design

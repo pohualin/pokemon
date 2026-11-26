@@ -7,6 +7,8 @@ layout: page
 
 22 card lists — one list per rarity.
 
+{% include jump.html folder="by-rarity/" label="Choose a Rarity…" %}
+
 <a href="by-rarity/ace-spec-rare.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/542654_in_1000x1000.jpg" width="180"></a>
 
 [ACE SPEC Rare](by-rarity/ace-spec-rare.html) — 58 products across 8 sets, 29 designs

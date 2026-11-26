@@ -7,6 +7,8 @@ layout: page
 
 1,026 card lists — every English printing, by species.
 
+{% include jump.html folder="by-pokemon/" label="Choose a Pokémon…" %}
+
 <a href="by-pokemon/abomasnow.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/83440_in_1000x1000.jpg" width="180"></a>
 
 [Abomasnow](by-pokemon/abomasnow.html) — 19 products across 18 sets, 17 designs
