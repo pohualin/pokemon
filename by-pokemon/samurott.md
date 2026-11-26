@@ -1,0 +1,37 @@
+# Samurott
+
+English products: **27** across **12** sets
+
+Unique designs: **20**
+
+**Last updated:** 2026-11-25 22:55
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/88907_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Samurott (31)](https://www.tcgplayer.com/product/88907)<br>**Set:** Black and White<br>**Rarity:** Holo Rare ★<br>**Market:** $3.01 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/88908_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Samurott (32)](https://www.tcgplayer.com/product/88908)<br>**Set:** Black and White<br>**Rarity:** Holo Rare ★<br>**Market:** $3.08 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/88908_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Samurott 32/114](https://www.tcgplayer.com/product/121019)<br>**Set:** XY - Steam Siege<br>**Rarity:** Rare ★<br>**Market:** $0.38 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/88909_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Samurott - BW22](https://www.tcgplayer.com/product/88909)<br>**Set:** Black and White Promos<br>**Rarity:** Promo<br>**Market:** $5.34 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/88910_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Samurott 41/149](https://www.tcgplayer.com/product/88910)<br>**Set:** Boundaries Crossed<br>**Rarity:** Holo Rare ★<br>**Market:** $2.02 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/88911_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Samurott 39/113](https://www.tcgplayer.com/product/88911)<br>**Set:** Legendary Treasures<br>**Rarity:** Holo Rare ★<br>**Market:** $3.49 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/123458_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Samurott - 41/149 (BW Boundaries Crossed) 041/149](https://www.tcgplayer.com/product/123458)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $0.70 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/123458_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Samurott - 41/149 (Cosmos Holo) 041/149](https://www.tcgplayer.com/product/227086)<br>**Set:** Blister Exclusives<br>**Rarity:** Promo<br>**Market:** $6.93 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/204231_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Samurott - 31/114 (Cracked Ice Holo) 031/114](https://www.tcgplayer.com/product/204231)<br>**Set:** Deck Exclusives<br>**Rarity:** Holo Rare ★<br>**Market:** $4.94 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/204231_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Samurott - 31/114 031/114](https://www.tcgplayer.com/product/204232)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $6.92 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/226415_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Samurott 035/185](https://www.tcgplayer.com/product/226415)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Rare ★<br>**Market:** $0.31 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/272301_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Hisuian Samurott 100/189](https://www.tcgplayer.com/product/272301)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Holo Rare ★<br>**Market:** $0.33 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/272301_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Hisuian Samurott - 100/189](https://www.tcgplayer.com/product/274360)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $0.33 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/272302_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Hisuian Samurott V 101/189](https://www.tcgplayer.com/product/272302)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $0.96 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/272303_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Hisuian Samurott VSTAR 102/189](https://www.tcgplayer.com/product/272303)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $1.53 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/272426_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Hisuian Samurott V (Full Art) 176/189](https://www.tcgplayer.com/product/272426)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $2.56 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/272451_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Hisuian Samurott VSTAR (Secret) 197/189](https://www.tcgplayer.com/product/272451)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Secret Rare Gold ★<br>**Market:** $8.72 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/272464_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Hisuian Samurott VSTAR (Secret) (209)](https://www.tcgplayer.com/product/272464)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Secret Rare Gold ★<br>**Market:** $8.72 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/273156_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Hisuian Samurott - SWSH207](https://www.tcgplayer.com/product/273156)<br>**Set:** SWSH: Sword & Shield Promo Cards<br>**Rarity:** Promo<br>**Market:** $1.01 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/275165_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Hisuian Samurott V - SWSH239](https://www.tcgplayer.com/product/275165)<br>**Set:** SWSH: Sword & Shield Promo Cards<br>**Rarity:** Promo<br>**Market:** $0.90 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/478078_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Hisuian Samurott V GG51/GG70](https://www.tcgplayer.com/product/478078)<br>**Set:** SWSH: Crown Zenith: Galarian Gallery<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $16.22 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/478079_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Hisuian Samurott VSTAR GG52/GG70](https://www.tcgplayer.com/product/478079)<br>**Set:** SWSH: Crown Zenith: Galarian Gallery<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $11.04 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/642135_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Samurott 023/086](https://www.tcgplayer.com/product/642135)<br>**Set:** SV: White Flare<br>**Rarity:** Rare ★<br>**Market:** $0.24 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/642135_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Samurott (Master Ball Pattern) 023/086](https://www.tcgplayer.com/product/642307)<br>**Set:** SV: White Flare<br>**Rarity:** Rare ★<br>**Market:** $12.61 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/642135_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Samurott (Poke Ball Pattern) 023/086](https://www.tcgplayer.com/product/642379)<br>**Set:** SV: White Flare<br>**Rarity:** Rare ★<br>**Market:** $0.58 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/642135_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Samurott 023/086](https://www.tcgplayer.com/product/725083)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $29.99 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/642219_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Samurott - 107/086](https://www.tcgplayer.com/product/642219)<br>**Set:** SV: White Flare<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $40.63 |

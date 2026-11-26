@@ -1,0 +1,37 @@
+# Volcanion
+
+English products: **27** across **15** sets
+
+Unique designs: **24**
+
+**Last updated:** 2026-11-25 22:55
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/120151_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Volcanion EX 26/114](https://www.tcgplayer.com/product/120151)<br>**Set:** XY - Steam Siege<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $2.90 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/121013_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Volcanion 25/114](https://www.tcgplayer.com/product/121013)<br>**Set:** XY - Steam Siege<br>**Rarity:** Rare ★<br>**Market:** $0.37 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/121231_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Volcanion EX (Full Art) 107/114](https://www.tcgplayer.com/product/121231)<br>**Set:** XY - Steam Siege<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $9.81 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/121239_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Volcanion EX (Secret) 115/114](https://www.tcgplayer.com/product/121239)<br>**Set:** XY - Steam Siege<br>**Rarity:** Secret Rare Gold ★<br>**Market:** $36.15 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/123455_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Volcanion EX XY173](https://www.tcgplayer.com/product/123455)<br>**Set:** XY Promos<br>**Rarity:** Promo<br>**Market:** $3.22 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/123462_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Volcanion - 25/114 (Cracked Ice Holo) 025/114](https://www.tcgplayer.com/product/123462)<br>**Set:** Deck Exclusives<br>**Rarity:** Holo Rare ★<br>**Market:** $1.53 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/123462_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Volcanion - 25/114 (Pokemon League) 025/114](https://www.tcgplayer.com/product/126017)<br>**Set:** League & Championship Cards<br>**Rarity:** Promo<br>**Market:** $0.94 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/125251_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Volcanion - XY164](https://www.tcgplayer.com/product/125251)<br>**Set:** XY Promos<br>**Rarity:** Promo<br>**Market:** $1.31 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/127139_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Volcanion - XY185](https://www.tcgplayer.com/product/127139)<br>**Set:** XY Promos<br>**Rarity:** Promo<br>**Market:** $11.49 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/129376_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Volcanion (XY Steam Siege Prerelease) XY145](https://www.tcgplayer.com/product/129376)<br>**Set:** XY Promos<br>**Rarity:** Promo<br>**Market:** $23.84 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/129376_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Volcanion - XY145 (Prerelease) [Staff]](https://www.tcgplayer.com/product/129377)<br>**Set:** XY Promos<br>**Rarity:** Promo<br>**Market:** $61.48 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/146681_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Shining Volcanion 27/73](https://www.tcgplayer.com/product/146681)<br>**Set:** Shining Legends<br>**Rarity:** Shiny Holo Rare Gold ✦<br>**Market:** $7.83 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/165682_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Volcanion Prism Star 31/131](https://www.tcgplayer.com/product/165682)<br>**Set:** SM - Forbidden Light<br>**Rarity:** Prism Rare ★<br>**Market:** $13.75 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/189010_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Volcanion - SM179 (Prerelease)](https://www.tcgplayer.com/product/189010)<br>**Set:** SM Promos<br>**Rarity:** Promo<br>**Market:** $4.20 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/189010_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Volcanion - SM179 (Prerelease) [Staff]](https://www.tcgplayer.com/product/189455)<br>**Set:** SM Promos<br>**Rarity:** Promo<br>**Market:** $54.59 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/189070_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Volcanion 25/214](https://www.tcgplayer.com/product/189070)<br>**Set:** SM - Unbroken Bonds<br>**Rarity:** Holo Rare ★<br>**Market:** $0.71 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/215491_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Volcanion - 25/214 025/214](https://www.tcgplayer.com/product/215491)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $0.38 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/232427_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Volcanion 025/072](https://www.tcgplayer.com/product/232427)<br>**Set:** Shining Fates<br>**Rarity:** Rare ★<br>**Market:** $0.10 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/241677_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Volcanion V 025/198](https://www.tcgplayer.com/product/241677)<br>**Set:** SWSH06: Chilling Reign<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $0.68 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/241678_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Volcanion V (Full Art) 162/198](https://www.tcgplayer.com/product/241678)<br>**Set:** SWSH06: Chilling Reign<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $2.16 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/478124_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Volcanion 026/159](https://www.tcgplayer.com/product/478124)<br>**Set:** SWSH: Crown Zenith<br>**Rarity:** Holo Rare ★<br>**Market:** $0.31 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/523625_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Volcanion 022/182](https://www.tcgplayer.com/product/523625)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Rare ★<br>**Market:** $0.12 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/623458_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Volcanion ex - 031/159](https://www.tcgplayer.com/product/623458)<br>**Set:** SV09: Journey Together<br>**Rarity:** Double Rare Black ★★<br>**Market:** $0.60 |
+| ![Design U\|300](https://tcgplayer-cdn.tcgplayer.com/product/623598_in_1000x1000.jpg) | **Design:** U<br>**Card #:** [Volcanion ex - 171/159](https://www.tcgplayer.com/product/623598)<br>**Set:** SV09: Journey Together<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $0.85 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/623609_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Volcanion ex - 182/159](https://www.tcgplayer.com/product/623609)<br>**Set:** SV09: Journey Together<br>**Rarity:** Special Illustration Rare Gold ★★<br>**Market:** $11.96 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/654364_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Volcanion 025/132](https://www.tcgplayer.com/product/654364)<br>**Set:** ME01: Mega Evolution<br>**Rarity:** Uncommon ◆<br>**Market:** $0.12 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/684408_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Volcanion 025/088](https://www.tcgplayer.com/product/684408)<br>**Set:** ME03: Perfect Order<br>**Rarity:** Uncommon ◆<br>**Market:** $0.06 |

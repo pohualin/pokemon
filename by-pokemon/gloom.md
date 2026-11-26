@@ -1,0 +1,41 @@
+# Gloom
+
+English products: **31** across **26** sets
+
+Unique designs: **26**
+
+**Last updated:** 2026-11-25 22:45
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/45140_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Gloom 37/64](https://www.tcgplayer.com/product/45140)<br>**Set:** Jungle<br>**Rarity:** Uncommon ◆<br>**Market:** $4.50 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/84600_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Dark Gloom 36/82](https://www.tcgplayer.com/product/84600)<br>**Set:** Team Rocket<br>**Rarity:** Uncommon ◆<br>**Market:** $5.26 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/85295_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Erika's Gloom (45) 045/132](https://www.tcgplayer.com/product/85295)<br>**Set:** Gym Heroes<br>**Rarity:** Uncommon ◆<br>**Market:** $7.78 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/85296_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Erika's Gloom (46) 046/132](https://www.tcgplayer.com/product/85296)<br>**Set:** Gym Heroes<br>**Rarity:** Uncommon ◆<br>**Market:** $18.78 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/85778_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Gloom 036/111](https://www.tcgplayer.com/product/85778)<br>**Set:** Neo Genesis<br>**Rarity:** Uncommon ◆<br>**Market:** $6.27 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/85780_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Gloom 049/147](https://www.tcgplayer.com/product/85780)<br>**Set:** Aquapolis<br>**Rarity:** Uncommon ◆<br>**Market:** $42.13 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/85781_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Gloom 078/165](https://www.tcgplayer.com/product/85781)<br>**Set:** Expedition<br>**Rarity:** Uncommon ◆<br>**Market:** $7.22 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/85782_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Gloom 35/101](https://www.tcgplayer.com/product/85782)<br>**Set:** EX Hidden Legends<br>**Rarity:** Uncommon ◆<br>**Market:** $9.57 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/85783_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Gloom 58/115](https://www.tcgplayer.com/product/85783)<br>**Set:** EX Unseen Forces<br>**Rarity:** Common ●<br>**Market:** $0.86 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/85784_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Gloom (96)](https://www.tcgplayer.com/product/85784)<br>**Set:** Legends Awakened<br>**Rarity:** Common ●<br>**Market:** $2.03 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/85785_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Gloom (97)](https://www.tcgplayer.com/product/85785)<br>**Set:** Legends Awakened<br>**Rarity:** Common ●<br>**Market:** $0.97 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/85786_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Gloom 27/90](https://www.tcgplayer.com/product/85786)<br>**Set:** Undaunted<br>**Rarity:** Uncommon ◆<br>**Market:** $1.06 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/85786_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Gloom - 2011 (Ross Cawthon) 27/90](https://www.tcgplayer.com/product/480406)<br>**Set:** World Championship Decks<br>**Rarity:** Uncommon ◆<br>**Market:** $15.54 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/85787_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Gloom 2/149](https://www.tcgplayer.com/product/85787)<br>**Set:** Boundaries Crossed<br>**Rarity:** Uncommon ◆<br>**Market:** $0.53 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/85788_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Gloom (Delta Species) 42/110](https://www.tcgplayer.com/product/85788)<br>**Set:** EX Holon Phantoms<br>**Rarity:** Uncommon ◆<br>**Market:** $2.76 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/100614_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Gloom 2/98](https://www.tcgplayer.com/product/100614)<br>**Set:** XY - Ancient Origins<br>**Rarity:** Uncommon ◆<br>**Market:** $0.19 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/138275_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Gloom 5/147](https://www.tcgplayer.com/product/138275)<br>**Set:** SM - Burning Shadows<br>**Rarity:** Uncommon ◆<br>**Market:** $0.29 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/138275_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Gloom (6) 5/147](https://www.tcgplayer.com/product/168239)<br>**Set:** SM Trainer Kit: Alolan Sandslash & Alolan Ninetales<br>**Rarity:** Uncommon ◆<br>**Market:** $0.24 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/189045_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Gloom 7/214](https://www.tcgplayer.com/product/189045)<br>**Set:** SM - Unbroken Bonds<br>**Rarity:** Uncommon ◆<br>**Market:** $0.46 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/201133_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Gloom 3/236](https://www.tcgplayer.com/product/201133)<br>**Set:** SM - Cosmic Eclipse<br>**Rarity:** Uncommon ◆<br>**Market:** $0.28 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/283862_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Gloom 002/196](https://www.tcgplayer.com/product/283862)<br>**Set:** SWSH11: Lost Origin<br>**Rarity:** Uncommon ◆<br>**Market:** $0.20 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/478042_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Gloom 002/159](https://www.tcgplayer.com/product/478042)<br>**Set:** SWSH: Crown Zenith<br>**Rarity:** Uncommon ◆<br>**Market:** $0.21 |
+| ![Design U\|300](https://tcgplayer-cdn.tcgplayer.com/product/509653_in_1000x1000.jpg) | **Design:** U<br>**Card #:** [Gloom 002/197](https://www.tcgplayer.com/product/509653)<br>**Set:** SV03: Obsidian Flames<br>**Rarity:** Common ●<br>**Market:** $0.16 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/509944_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Gloom - 198/197](https://www.tcgplayer.com/product/509944)<br>**Set:** SV03: Obsidian Flames<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $17.08 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/516157_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Gloom 044/165](https://www.tcgplayer.com/product/516157)<br>**Set:** SV: Scarlet & Violet 151<br>**Rarity:** Uncommon ◆<br>**Market:** $0.17 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/534460_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Gloom 093/091](https://www.tcgplayer.com/product/534460)<br>**Set:** SV: Paldean Fates<br>**Rarity:** Shiny Rare Gold ✦<br>**Market:** $4.82 |
+| ![Design Y\|300](https://tcgplayer-cdn.tcgplayer.com/product/662164_in_1000x1000.jpg) | **Design:** Y<br>**Card #:** [Gloom 002/094](https://www.tcgplayer.com/product/662164)<br>**Set:** ME02: Phantasmal Flames<br>**Rarity:** Common ●<br>**Market:** $0.13 |
+| ![Design Y\|300](https://tcgplayer-cdn.tcgplayer.com/product/662164_in_1000x1000.jpg) | **Design:** Y<br>**Card #:** [Gloom (Cosmos Holo) 002/094](https://www.tcgplayer.com/product/684042)<br>**Set:** Miscellaneous Cards & Products<br>**Rarity:** Common ●<br>**Market:** $0.29 |
+| ![Design Z\|300](https://tcgplayer-cdn.tcgplayer.com/product/675814_in_1000x1000.jpg) | **Design:** Z<br>**Card #:** [Erika's Gloom 002/217](https://www.tcgplayer.com/product/675814)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Uncommon ◆<br>**Market:** $0.18 |
+| ![Design Z\|300](https://tcgplayer-cdn.tcgplayer.com/product/675814_in_1000x1000.jpg) | **Design:** Z<br>**Card #:** [Erika's Gloom (Poke Ball) 002/217](https://www.tcgplayer.com/product/676853)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Uncommon ◆<br>**Market:** $0.25 |
+| ![Design Z\|300](https://tcgplayer-cdn.tcgplayer.com/product/675814_in_1000x1000.jpg) | **Design:** Z<br>**Card #:** [Erika's Gloom (Energy Symbol Pattern) 002/217](https://www.tcgplayer.com/product/676993)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Uncommon ◆<br>**Market:** $0.37 |

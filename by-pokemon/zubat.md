@@ -1,0 +1,44 @@
+# Zubat
+
+English products: **34** across **30** sets
+
+Unique designs: **29**
+
+**Last updated:** 2026-11-25 22:45
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/44459_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Zubat 57/62](https://www.tcgplayer.com/product/44459)<br>**Set:** Fossil<br>**Rarity:** Common ●<br>**Market:** $2.29 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/83988_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Brock's Zubat (24) 024/132](https://www.tcgplayer.com/product/83988)<br>**Set:** Gym Heroes<br>**Rarity:** Rare ★<br>**Market:** $19.80 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/83989_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Brock's Zubat (74) 074/132](https://www.tcgplayer.com/product/83989)<br>**Set:** Gym Heroes<br>**Rarity:** Common ●<br>**Market:** $3.69 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/86521_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Koga's Zubat 083/132](https://www.tcgplayer.com/product/86521)<br>**Set:** Gym Challenge<br>**Rarity:** Common ●<br>**Market:** $2.58 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/90766_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Zubat 59/64](https://www.tcgplayer.com/product/90766)<br>**Set:** Neo Revelation<br>**Rarity:** Common ●<br>**Market:** $2.74 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/90767_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Zubat 70/82](https://www.tcgplayer.com/product/90767)<br>**Set:** Team Rocket<br>**Rarity:** Common ●<br>**Market:** $2.25 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/90768_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Zubat (117)](https://www.tcgplayer.com/product/90768)<br>**Set:** Skyridge<br>**Rarity:** Common ●<br>**Market:** $28.94 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/90769_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Zubat (118)](https://www.tcgplayer.com/product/90769)<br>**Set:** Skyridge<br>**Rarity:** Common ●<br>**Market:** $39.06 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/90770_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Zubat 83/101](https://www.tcgplayer.com/product/90770)<br>**Set:** EX Hidden Legends<br>**Rarity:** Common ●<br>**Market:** $0.61 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/90771_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Zubat 82/109](https://www.tcgplayer.com/product/90771)<br>**Set:** EX Team Rocket Returns<br>**Rarity:** Common ●<br>**Market:** $1.46 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/90772_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Zubat 83/107](https://www.tcgplayer.com/product/90772)<br>**Set:** EX Deoxys<br>**Rarity:** Common ●<br>**Market:** $1.32 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/90773_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Zubat 88/113](https://www.tcgplayer.com/product/90773)<br>**Set:** EX Delta Species<br>**Rarity:** Common ●<br>**Market:** $1.35 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/90774_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Zubat 108/123](https://www.tcgplayer.com/product/90774)<br>**Set:** Mysterious Treasures<br>**Rarity:** Common ●<br>**Market:** $0.45 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/90775_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Zubat 133](https://www.tcgplayer.com/product/90775)<br>**Set:** Supreme Victors<br>**Rarity:** Common ●<br>**Market:** $0.42 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/90776_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Zubat 70/95](https://www.tcgplayer.com/product/90776)<br>**Set:** Unleashed<br>**Rarity:** Common ●<br>**Market:** $0.51 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/90777_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Zubat (52)](https://www.tcgplayer.com/product/90777)<br>**Set:** Plasma Storm<br>**Rarity:** Common ●<br>**Market:** $0.28 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/90778_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Zubat (53)](https://www.tcgplayer.com/product/90778)<br>**Set:** Plasma Storm<br>**Rarity:** Common ●<br>**Market:** $0.46 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/90778_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Zubat - 2015 (Patrick Martinez) 53/135](https://www.tcgplayer.com/product/481279)<br>**Set:** World Championship Decks<br>**Rarity:** Common ●<br>**Market:** $2.17 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/90778_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Zubat - 2015 (Rowan Stavenow) 53/135](https://www.tcgplayer.com/product/481280)<br>**Set:** World Championship Decks<br>**Rarity:** Common ●<br>**Market:** $0.70 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/94164_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Zubat 31/119](https://www.tcgplayer.com/product/94164)<br>**Set:** XY - Phantom Forces<br>**Rarity:** Common ●<br>**Market:** $0.18 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/113688_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Zubat 30/83](https://www.tcgplayer.com/product/113688)<br>**Set:** Generations<br>**Rarity:** Common ●<br>**Market:** $0.31 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/126925_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Zubat 54/149](https://www.tcgplayer.com/product/126925)<br>**Set:** SM Base Set<br>**Rarity:** Common ●<br>**Market:** $0.11 |
+| ![Design U\|300](https://tcgplayer-cdn.tcgplayer.com/product/152864_in_1000x1000.jpg) | **Design:** U<br>**Card #:** [Zubat 11/30](https://www.tcgplayer.com/product/152864)<br>**Set:** SM Trainer Kit: Lycanroc & Alolan Raichu<br>**Rarity:** Common ●<br>**Market:** $0.19 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/189164_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Zubat 64/214](https://www.tcgplayer.com/product/189164)<br>**Set:** SM - Unbroken Bonds<br>**Rarity:** Common ●<br>**Market:** $0.19 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/234199_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Zubat 089/163](https://www.tcgplayer.com/product/234199)<br>**Set:** SWSH05: Battle Styles<br>**Rarity:** Common ●<br>**Market:** $0.22 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/234199_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Zubat 089/163](https://www.tcgplayer.com/product/283810)<br>**Set:** Trick or Trade BOOster Bundle<br>**Rarity:** Promo<br>**Market:** $0.31 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/451757_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Zubat 103/195](https://www.tcgplayer.com/product/451757)<br>**Set:** SWSH12: Silver Tempest<br>**Rarity:** Common ●<br>**Market:** $0.11 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/451757_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Zubat 103/195](https://www.tcgplayer.com/product/515679)<br>**Set:** Trick or Trade BOOster Bundle 2023<br>**Rarity:** Common ●<br>**Market:** $0.18 |
+| ![Design Y\|300](https://tcgplayer-cdn.tcgplayer.com/product/516150_in_1000x1000.jpg) | **Design:** Y<br>**Card #:** [Zubat 041/165](https://www.tcgplayer.com/product/516150)<br>**Set:** SV: Scarlet & Violet 151<br>**Rarity:** Common ●<br>**Market:** $0.15 |
+| ![Design Z\|300](https://tcgplayer-cdn.tcgplayer.com/product/523783_in_1000x1000.jpg) | **Design:** Z<br>**Card #:** [Zubat 110/182](https://www.tcgplayer.com/product/523783)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Common ●<br>**Market:** $0.08 |
+| ![Design AA\|300](https://tcgplayer-cdn.tcgplayer.com/product/560337_in_1000x1000.jpg) | **Design:** AA<br>**Card #:** [Zubat 027/064](https://www.tcgplayer.com/product/560337)<br>**Set:** SV: Shrouded Fable<br>**Rarity:** Common ●<br>**Market:** $0.16 |
+| ![Design AB\|300](https://tcgplayer-cdn.tcgplayer.com/product/632928_in_1000x1000.jpg) | **Design:** AB<br>**Card #:** [Team Rocket's Zubat 120/182](https://www.tcgplayer.com/product/632928)<br>**Set:** SV10: Destined Rivals<br>**Rarity:** Common ●<br>**Market:** $0.20 |
+| ![Design AC\|300](https://tcgplayer-cdn.tcgplayer.com/product/693565_in_1000x1000.jpg) | **Design:** AC<br>**Card #:** [Zubat 049/086](https://www.tcgplayer.com/product/693565)<br>**Set:** ME04: Chaos Rising<br>**Rarity:** Common ●<br>**Market:** $0.14 |
+| ![Design AC\|300](https://tcgplayer-cdn.tcgplayer.com/product/693565_in_1000x1000.jpg) | **Design:** AC<br>**Card #:** [Zubat - 049/086 (Pokeween 2026)](https://www.tcgplayer.com/product/722836)<br>**Set:** Miscellaneous Cards & Products<br>**Rarity:** Promo<br>**Market:** $1.05 |

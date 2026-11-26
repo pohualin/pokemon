@@ -1,0 +1,36 @@
+# Thundurus
+
+English products: **26** across **17** sets
+
+Unique designs: **19**
+
+**Last updated:** 2026-11-25 22:55
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/89903_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Thundurus 35/98](https://www.tcgplayer.com/product/89903)<br>**Set:** Emerging Powers<br>**Rarity:** Holo Rare ★<br>**Market:** $2.40 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/89904_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Thundurus - BW41](https://www.tcgplayer.com/product/89904)<br>**Set:** Black and White Promos<br>**Rarity:** Promo<br>**Market:** $4.87 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/89905_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Thundurus 50/113](https://www.tcgplayer.com/product/89905)<br>**Set:** Legendary Treasures<br>**Rarity:** Holo Rare ★<br>**Market:** $2.15 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/89906_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Thundurus (97 Full Art) 97/98](https://www.tcgplayer.com/product/89906)<br>**Set:** Emerging Powers<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $23.99 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/89907_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Thundurus EX (Team Plasma) 38/116](https://www.tcgplayer.com/product/89907)<br>**Set:** Plasma Freeze<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $15.76 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/89907_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Thundurus EX - 2013 (Yugo Sato) 38/116](https://www.tcgplayer.com/product/480748)<br>**Set:** World Championship Decks<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $2.89 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/89907_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Thundurus EX - 2014 (Haruto Kobayashi) 38/116](https://www.tcgplayer.com/product/480996)<br>**Set:** World Championship Decks<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $2.35 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/89908_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Thundurus EX (Team Plasma) - BW81](https://www.tcgplayer.com/product/89908)<br>**Set:** Black and White Promos<br>**Rarity:** Promo<br>**Market:** $5.48 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/89909_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Thundurus EX (Team Plasma) (110 Full Art) 110/116](https://www.tcgplayer.com/product/89909)<br>**Set:** Plasma Freeze<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $151.25 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/92208_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Thundurus 33/111](https://www.tcgplayer.com/product/92208)<br>**Set:** XY - Furious Fists<br>**Rarity:** Rare ★<br>**Market:** $0.32 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/98062_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Thundurus EX 26/108](https://www.tcgplayer.com/product/98062)<br>**Set:** XY - Roaring Skies<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $2.40 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/98134_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Thundurus EX (98 Full Art) 98/108](https://www.tcgplayer.com/product/98134)<br>**Set:** XY - Roaring Skies<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $20.08 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/135040_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Thundurus - 50/113 (BW Legendary Treasures) 050/113](https://www.tcgplayer.com/product/135040)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $0.48 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/170032_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Thundurus GX - SM133](https://www.tcgplayer.com/product/170032)<br>**Set:** SM Promos<br>**Rarity:** Promo<br>**Market:** $3.72 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/194994_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Thundurus 68/236](https://www.tcgplayer.com/product/194994)<br>**Set:** SM - Unified Minds<br>**Rarity:** Uncommon ◆<br>**Market:** $0.21 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/241709_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Thundurus 052/198](https://www.tcgplayer.com/product/241709)<br>**Set:** SWSH06: Chilling Reign<br>**Rarity:** Holo Rare ★<br>**Market:** $0.24 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/241709_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Thundurus - 52/198 052/198](https://www.tcgplayer.com/product/251982)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $0.16 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/241709_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Thundurus - 052/198 (Cosmos Holo)](https://www.tcgplayer.com/product/266913)<br>**Set:** Blister Exclusives<br>**Rarity:** Promo<br>**Market:** $0.39 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/509837_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Thundurus 070/197](https://www.tcgplayer.com/product/509837)<br>**Set:** SV03: Obsidian Flames<br>**Rarity:** Rare ★<br>**Market:** $0.12 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/534540_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Thundurus 139/091](https://www.tcgplayer.com/product/534540)<br>**Set:** SV: Paldean Fates<br>**Rarity:** Shiny Rare Gold ✦<br>**Market:** $2.22 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/642485_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Thundurus 033/086](https://www.tcgplayer.com/product/642485)<br>**Set:** SV: Black Bolt<br>**Rarity:** Rare ★<br>**Market:** $0.11 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/642485_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Thundurus (Master Ball Pattern) 033/086](https://www.tcgplayer.com/product/642657)<br>**Set:** SV: Black Bolt<br>**Rarity:** Rare ★<br>**Market:** $11.60 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/642485_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Thundurus (Poke Ball Pattern) 033/086](https://www.tcgplayer.com/product/642730)<br>**Set:** SV: Black Bolt<br>**Rarity:** Rare ★<br>**Market:** $0.56 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/644833_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Thundurus - 209](https://www.tcgplayer.com/product/644833)<br>**Set:** SV: Scarlet & Violet Promo Cards<br>**Rarity:** Promo<br>**Market:** $1.46 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/644833_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Thundurus - 209 (Pokemon Center Exclusive)](https://www.tcgplayer.com/product/644834)<br>**Set:** SV: Scarlet & Violet Promo Cards<br>**Rarity:** Promo<br>**Market:** $14.26 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/726524_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Thundurus 035/103](https://www.tcgplayer.com/product/726524)<br>**Set:** ME06: Delta Reign<br>**Rarity:** Uncommon ◆<br>**Market:** $0.11 |

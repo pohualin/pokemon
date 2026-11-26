@@ -1,0 +1,38 @@
+# Aegislash
+
+English products: **28** across **17** sets
+
+Unique designs: **23**
+
+**Last updated:** 2026-11-25 22:55
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/83462_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Aegislash (85)](https://www.tcgplayer.com/product/83462)<br>**Set:** XY Base Set<br>**Rarity:** Rare ★<br>**Market:** $0.68 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/83463_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Aegislash (86)](https://www.tcgplayer.com/product/83463)<br>**Set:** XY Base Set<br>**Rarity:** Holo Rare ★<br>**Market:** $1.68 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/83463_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Aegislash - 86/146 (Prerelease)](https://www.tcgplayer.com/product/243195)<br>**Set:** XY Promos<br>**Rarity:** Promo<br>**Market:** $10.18 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/83463_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Aegislash - 86/146 (Prerelease) [Staff]](https://www.tcgplayer.com/product/243196)<br>**Set:** XY Promos<br>**Rarity:** Promo<br>**Market:** $57.98 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/94633_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Aegislash EX 65/119](https://www.tcgplayer.com/product/94633)<br>**Set:** XY - Phantom Forces<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $4.00 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/95998_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Aegislash 100/160](https://www.tcgplayer.com/product/95998)<br>**Set:** XY - Primal Clash<br>**Rarity:** Holo Rare ★<br>**Market:** $0.81 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/111603_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Aegislash 62/122](https://www.tcgplayer.com/product/111603)<br>**Set:** XY - BREAKpoint<br>**Rarity:** Holo Rare ★<br>**Market:** $0.55 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/148340_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Aegislash EX - 65a/119 065a/119](https://www.tcgplayer.com/product/148340)<br>**Set:** Alternate Art Promos<br>**Rarity:** Promo<br>**Market:** $13.44 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/165700_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Aegislash 49/131](https://www.tcgplayer.com/product/165700)<br>**Set:** SM - Forbidden Light<br>**Rarity:** Rare ★<br>**Market:** $0.42 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/183893_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Aegislash 109/181](https://www.tcgplayer.com/product/183893)<br>**Set:** SM - Team Up<br>**Rarity:** Holo Rare ★<br>**Market:** $0.73 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/195027_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Aegislash 95/236](https://www.tcgplayer.com/product/195027)<br>**Set:** SM - Unified Minds<br>**Rarity:** Holo Rare ★<br>**Market:** $0.71 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/209551_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Aegislash - 85/146 (Regional Championships) 085/146](https://www.tcgplayer.com/product/209551)<br>**Set:** League & Championship Cards<br>**Rarity:** Promo<br>**Market:** $9.98 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/209551_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Aegislash - 85/146 (Regional Championships) [Staff] 085/146](https://www.tcgplayer.com/product/209563)<br>**Set:** League & Championship Cards<br>**Rarity:** Promo<br>**Market:** — |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/213231_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Aegislash 135/192](https://www.tcgplayer.com/product/213231)<br>**Set:** SWSH02: Rebel Clash<br>**Rarity:** Rare ★<br>**Market:** $0.29 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/226580_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Aegislash V 126/185](https://www.tcgplayer.com/product/226580)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $0.52 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/226581_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Aegislash V (Full Art) 177/185](https://www.tcgplayer.com/product/226581)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $3.18 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/226582_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Aegislash VMAX 127/185](https://www.tcgplayer.com/product/226582)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $1.31 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/226583_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Aegislash VMAX (Secret) 190/185](https://www.tcgplayer.com/product/226583)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Secret Rare Gold ★<br>**Market:** $7.07 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/234167_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Aegislash (107)](https://www.tcgplayer.com/product/234167)<br>**Set:** SWSH05: Battle Styles<br>**Rarity:** Holo Rare ★<br>**Market:** $0.38 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/234169_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Aegislash (108)](https://www.tcgplayer.com/product/234169)<br>**Set:** SWSH05: Battle Styles<br>**Rarity:** Rare ★<br>**Market:** $0.22 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/523813_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Aegislash - 134/182](https://www.tcgplayer.com/product/523813)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Rare ★<br>**Market:** $0.20 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/523813_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Aegislash - 134/182 (Non-Holo)](https://www.tcgplayer.com/product/528308)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $0.16 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/523814_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Aegislash ex 135/182](https://www.tcgplayer.com/product/523814)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Double Rare Black ★★<br>**Market:** $0.72 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/523891_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Aegislash - 210/182](https://www.tcgplayer.com/product/523891)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $8.16 |
+| ![Design U\|300](https://tcgplayer-cdn.tcgplayer.com/product/523911_in_1000x1000.jpg) | **Design:** U<br>**Card #:** [Aegislash ex - 230/182](https://www.tcgplayer.com/product/523911)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $2.08 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/526610_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Aegislash - 060 (Prerelease)](https://www.tcgplayer.com/product/526610)<br>**Set:** SV: Scarlet & Violet Promo Cards<br>**Rarity:** Promo<br>**Market:** $1.55 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/526610_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Aegislash - 060 (Prerelease) [Staff]](https://www.tcgplayer.com/product/548555)<br>**Set:** SV: Scarlet & Violet Promo Cards<br>**Rarity:** Promo<br>**Market:** $30.60 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/684381_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Aegislash 058/088](https://www.tcgplayer.com/product/684381)<br>**Set:** ME03: Perfect Order<br>**Rarity:** Uncommon ◆<br>**Market:** $0.13 |

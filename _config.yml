@@ -1,7 +1,12 @@
 title: Pokémon card lists
-description: English printings and TCGplayer market prices
+description: English printings and market prices
 theme: minima
 markdown: kramdown
 show_excerpts: false
 header_pages:
   - index.md
+  - pokemon.md
+  - trainers.md
+  - items.md
+  - stadiums.md
+  - rarities.md

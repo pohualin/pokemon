@@ -1,0 +1,38 @@
+# Heracross
+
+English products: **28** across **23** sets
+
+Unique designs: **28**
+
+**Last updated:** 2026-11-25 22:45
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/86059_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Heracross 006/111](https://www.tcgplayer.com/product/86059)<br>**Set:** Neo Genesis<br>**Rarity:** Holo Rare ★<br>**Market:** $279.87 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/86060_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Heracross 041/105](https://www.tcgplayer.com/product/86060)<br>**Set:** Neo Destiny<br>**Rarity:** Uncommon ◆<br>**Market:** $14.18 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/86061_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Heracross 064/144](https://www.tcgplayer.com/product/86061)<br>**Set:** Skyridge<br>**Rarity:** Common ●<br>**Market:** $24.85 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/86062_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Heracross 7/101](https://www.tcgplayer.com/product/86062)<br>**Set:** EX Hidden Legends<br>**Rarity:** Holo Rare ★<br>**Market:** $55.55 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/86063_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Heracross 43/109](https://www.tcgplayer.com/product/86063)<br>**Set:** EX Team Rocket Returns<br>**Rarity:** Uncommon ◆<br>**Market:** $15.59 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/86064_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Heracross 28/130](https://www.tcgplayer.com/product/86064)<br>**Set:** Diamond and Pearl<br>**Rarity:** Rare ★<br>**Market:** $1.93 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/86065_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Heracross 43/123](https://www.tcgplayer.com/product/86065)<br>**Set:** HeartGold SoulSilver<br>**Rarity:** Uncommon ◆<br>**Market:** $7.55 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/86066_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Heracross 8/149](https://www.tcgplayer.com/product/86066)<br>**Set:** Boundaries Crossed<br>**Rarity:** Uncommon ◆<br>**Market:** $1.25 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/86067_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Heracross (Delta Species) 3/101](https://www.tcgplayer.com/product/86067)<br>**Set:** EX Dragon Frontiers<br>**Rarity:** Holo Rare ★<br>**Market:** $47.50 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/86068_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Heracross E4 24/111](https://www.tcgplayer.com/product/86068)<br>**Set:** Rising Rivals<br>**Rarity:** Rare ★<br>**Market:** $8.87 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/92173_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Heracross EX 4/111](https://www.tcgplayer.com/product/92173)<br>**Set:** XY - Furious Fists<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $6.91 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/92174_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [M Heracross EX 5/111](https://www.tcgplayer.com/product/92174)<br>**Set:** XY - Furious Fists<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $15.13 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/92288_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Heracross EX (105 Full Art) 105/111](https://www.tcgplayer.com/product/92288)<br>**Set:** XY - Furious Fists<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $40.43 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/92291_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [M Heracross EX (Secret) 112/111](https://www.tcgplayer.com/product/92291)<br>**Set:** XY - Furious Fists<br>**Rarity:** Secret Rare Gold ★<br>**Market:** $52.28 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/138281_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Heracross 11/147](https://www.tcgplayer.com/product/138281)<br>**Set:** SM - Burning Shadows<br>**Rarity:** Rare ★<br>**Market:** $0.32 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/178817_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Heracross 18/214](https://www.tcgplayer.com/product/178817)<br>**Set:** SM - Lost Thunder<br>**Rarity:** Uncommon ◆<br>**Market:** $0.35 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/195059_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Heracross 107/236](https://www.tcgplayer.com/product/195059)<br>**Set:** SM - Unified Minds<br>**Rarity:** Uncommon ◆<br>**Market:** $0.35 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/201156_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Heracross 9/236](https://www.tcgplayer.com/product/201156)<br>**Set:** SM - Cosmic Eclipse<br>**Rarity:** Uncommon ◆<br>**Market:** $0.24 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/213076_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Heracross 006/192](https://www.tcgplayer.com/product/213076)<br>**Set:** SWSH02: Rebel Clash<br>**Rarity:** Uncommon ◆<br>**Market:** $0.21 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/241653_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Heracross 006/198](https://www.tcgplayer.com/product/241653)<br>**Set:** SWSH06: Chilling Reign<br>**Rarity:** Common ●<br>**Market:** $0.16 |
+| ![Design U\|300](https://tcgplayer-cdn.tcgplayer.com/product/272208_in_1000x1000.jpg) | **Design:** U<br>**Card #:** [Heracross 008/189](https://www.tcgplayer.com/product/272208)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Common ●<br>**Market:** $0.14 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/487831_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Heracross 002/198](https://www.tcgplayer.com/product/487831)<br>**Set:** SV01: Scarlet & Violet Base Set<br>**Rarity:** Uncommon ◆<br>**Market:** $0.09 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/497417_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Heracross - 006/193](https://www.tcgplayer.com/product/497417)<br>**Set:** SV02: Paldea Evolved<br>**Rarity:** Uncommon ◆<br>**Market:** $0.17 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/497597_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Heracross - 194/193](https://www.tcgplayer.com/product/497597)<br>**Set:** SV02: Paldea Evolved<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $28.88 |
+| ![Design Y\|300](https://tcgplayer-cdn.tcgplayer.com/product/550052_in_1000x1000.jpg) | **Design:** Y<br>**Card #:** [Heracross 008/167](https://www.tcgplayer.com/product/550052)<br>**Set:** SV06: Twilight Masquerade<br>**Rarity:** Uncommon ◆<br>**Market:** $0.19 |
+| ![Design Z\|300](https://tcgplayer-cdn.tcgplayer.com/product/662186_in_1000x1000.jpg) | **Design:** Z<br>**Card #:** [Mega Heracross ex - 004/094](https://www.tcgplayer.com/product/662186)<br>**Set:** ME02: Phantasmal Flames<br>**Rarity:** Double Rare Black ★★<br>**Market:** $0.50 |
+| ![Design AA\|300](https://tcgplayer-cdn.tcgplayer.com/product/662187_in_1000x1000.jpg) | **Design:** AA<br>**Card #:** [Mega Heracross ex - 108/094](https://www.tcgplayer.com/product/662187)<br>**Set:** ME02: Phantasmal Flames<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $1.70 |
+| ![Design AB\|300](https://tcgplayer-cdn.tcgplayer.com/product/727563_in_1000x1000.jpg) | **Design:** AB<br>**Card #:** [Heracross 001/103](https://www.tcgplayer.com/product/727563)<br>**Set:** ME06: Delta Reign<br>**Rarity:** Common ●<br>**Market:** $0.14 |

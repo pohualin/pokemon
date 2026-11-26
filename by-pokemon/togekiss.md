@@ -1,0 +1,37 @@
+# Togekiss
+
+English products: **27** across **17** sets
+
+Unique designs: **19**
+
+**Last updated:** 2026-11-25 22:55
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/89923_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Togekiss 11/106](https://www.tcgplayer.com/product/89923)<br>**Set:** Great Encounters<br>**Rarity:** Holo Rare ★<br>**Market:** $25.95 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/89924_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Togekiss 9/90](https://www.tcgplayer.com/product/89924)<br>**Set:** Undaunted<br>**Rarity:** Holo Rare ★<br>**Market:** $24.10 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/89925_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Togekiss 104/135](https://www.tcgplayer.com/product/89925)<br>**Set:** Plasma Storm<br>**Rarity:** Holo Rare ★<br>**Market:** $3.73 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/89926_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Togekiss C 86](https://www.tcgplayer.com/product/89926)<br>**Set:** Supreme Victors<br>**Rarity:** Uncommon ◆<br>**Market:** $7.57 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/98081_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Togekiss (45)](https://www.tcgplayer.com/product/98081)<br>**Set:** XY - Roaring Skies<br>**Rarity:** Rare ★<br>**Market:** $1.92 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/98082_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Togekiss (46 Delta) 46/108](https://www.tcgplayer.com/product/98082)<br>**Set:** XY - Roaring Skies<br>**Rarity:** Holo Rare ★<br>**Market:** $4.21 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/111566_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Togekiss EX 83/122](https://www.tcgplayer.com/product/111566)<br>**Set:** XY - BREAKpoint<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $5.09 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/125046_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Togekiss - 9/90 (HGSS Undaunted) 009/090](https://www.tcgplayer.com/product/125046)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $4.31 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/189236_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Togekiss 138/214](https://www.tcgplayer.com/product/189236)<br>**Set:** SM - Unbroken Bonds<br>**Rarity:** Holo Rare ★<br>**Market:** $2.20 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/226596_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Togekiss V 140/185](https://www.tcgplayer.com/product/226596)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $1.04 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/226596_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Togekiss V - 140/185](https://www.tcgplayer.com/product/476080)<br>**Set:** Prize Pack Series Cards<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $28.52 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/226597_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Togekiss V (Full Art) 178/185](https://www.tcgplayer.com/product/226597)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $4.86 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/226598_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Togekiss VMAX 141/185](https://www.tcgplayer.com/product/226598)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $1.61 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/226598_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Togekiss VMAX - 141/185](https://www.tcgplayer.com/product/476081)<br>**Set:** Prize Pack Series Cards<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $110.93 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/226599_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Togekiss VMAX (Secret) 191/185](https://www.tcgplayer.com/product/226599)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Secret Rare Gold ★<br>**Market:** $13.34 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/272258_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Togekiss 057/189](https://www.tcgplayer.com/product/272258)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Holo Rare ★<br>**Market:** $0.39 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/509840_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Togekiss 085/197](https://www.tcgplayer.com/product/509840)<br>**Set:** SV03: Obsidian Flames<br>**Rarity:** Rare ★<br>**Market:** $0.21 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/509840_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Togekiss 085/197](https://www.tcgplayer.com/product/515288)<br>**Set:** Deck Exclusives<br>**Rarity:** Rare ★<br>**Market:** $0.17 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/509840_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Togekiss - 085/197 (Cosmos Holo)](https://www.tcgplayer.com/product/552783)<br>**Set:** Blister Exclusives<br>**Rarity:** Promo<br>**Market:** $3.54 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/513426_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Togekiss - 038 (Prerelease)](https://www.tcgplayer.com/product/513426)<br>**Set:** SV: Scarlet & Violet Promo Cards<br>**Rarity:** Promo<br>**Market:** $4.90 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/513426_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Togekiss - 038 (Prerelease) [Staff]](https://www.tcgplayer.com/product/513427)<br>**Set:** SV: Scarlet & Violet Promo Cards<br>**Rarity:** Promo<br>**Market:** $36.76 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/590078_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Togekiss 072/191](https://www.tcgplayer.com/product/590078)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Rare ★<br>**Market:** $0.21 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/590078_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Togekiss - 072/191 (Cosmos Holo)](https://www.tcgplayer.com/product/636306)<br>**Set:** Miscellaneous Cards & Products<br>**Rarity:** Promo<br>**Market:** $6.38 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/675894_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Togekiss - 082/217](https://www.tcgplayer.com/product/675894)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Rare ★<br>**Market:** $0.16 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/675894_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Togekiss - 082/217 (Love Ball)](https://www.tcgplayer.com/product/676916)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Rare ★<br>**Market:** $0.32 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/675894_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Togekiss - 082/217 (Energy Symbol Pattern)](https://www.tcgplayer.com/product/677056)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Rare ★<br>**Market:** $0.42 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/676047_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Togekiss - 235/217](https://www.tcgplayer.com/product/676047)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $3.09 |

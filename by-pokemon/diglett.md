@@ -1,0 +1,42 @@
+# Diglett
+
+English products: **32** across **29** sets
+
+Unique designs: **29**
+
+**Last updated:** 2026-11-25 22:45
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/42390_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Diglett 047/102](https://www.tcgplayer.com/product/42390)<br>**Set:** Base Set<br>**Rarity:** Common ●<br>**Market:** $0.81 |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/42390_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Diglett 047/102](https://www.tcgplayer.com/product/107044)<br>**Set:** Base Set (Shadowless)<br>**Rarity:** Common ●<br>**Market:** $27.15 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/42491_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Diglett 071/130](https://www.tcgplayer.com/product/42491)<br>**Set:** Base Set 2<br>**Rarity:** Common ●<br>**Market:** $0.71 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/83961_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Brock's Diglett 067/132](https://www.tcgplayer.com/product/83961)<br>**Set:** Gym Challenge<br>**Rarity:** Common ●<br>**Market:** $2.77 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/84818_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Diglett 050/144](https://www.tcgplayer.com/product/84818)<br>**Set:** Skyridge<br>**Rarity:** Common ●<br>**Market:** $46.59 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/84819_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Diglett 52/82](https://www.tcgplayer.com/product/84819)<br>**Set:** Team Rocket<br>**Rarity:** Common ●<br>**Market:** $2.35 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/84820_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Diglett 106/165](https://www.tcgplayer.com/product/84820)<br>**Set:** Expedition<br>**Rarity:** Common ●<br>**Market:** $4.63 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/84821_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Diglett 61/112](https://www.tcgplayer.com/product/84821)<br>**Set:** EX FireRed & LeafGreen<br>**Rarity:** Common ●<br>**Market:** $0.99 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/84822_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Diglett 50/100](https://www.tcgplayer.com/product/84822)<br>**Set:** EX Crystal Guardians<br>**Rarity:** Common ●<br>**Market:** $3.04 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/84823_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Diglett 85/132](https://www.tcgplayer.com/product/84823)<br>**Set:** Secret Wonders<br>**Rarity:** Common ●<br>**Market:** $0.55 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/84824_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Diglett 72/127](https://www.tcgplayer.com/product/84824)<br>**Set:** Platinum<br>**Rarity:** Common ●<br>**Market:** $0.46 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/84825_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Diglett 11](https://www.tcgplayer.com/product/84825)<br>**Set:** Rumble<br>**Rarity:** Promo<br>**Market:** $129.46 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/84826_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Diglett 61/102](https://www.tcgplayer.com/product/84826)<br>**Set:** Triumphant<br>**Rarity:** Common ●<br>**Market:** $0.67 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/84827_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Diglett 58/146](https://www.tcgplayer.com/product/84827)<br>**Set:** XY Base Set<br>**Rarity:** Common ●<br>**Market:** $0.31 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/113696_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Diglett 38/83](https://www.tcgplayer.com/product/113696)<br>**Set:** Generations<br>**Rarity:** Common ●<br>**Market:** $0.80 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/117796_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Diglett 36/124](https://www.tcgplayer.com/product/117796)<br>**Set:** XY - Fates Collide<br>**Rarity:** Common ●<br>**Market:** $0.24 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/124068_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Diglett 55/108](https://www.tcgplayer.com/product/124068)<br>**Set:** XY - Evolutions<br>**Rarity:** Common ●<br>**Market:** $0.19 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/126958_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Alolan Diglett 86/149](https://www.tcgplayer.com/product/126958)<br>**Set:** SM Base Set<br>**Rarity:** Common ●<br>**Market:** $0.24 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/152689_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Alolan Diglett - 9/12 009/012](https://www.tcgplayer.com/product/152689)<br>**Set:** McDonald's Promos 2017<br>**Rarity:** Promo<br>**Market:** $5.61 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/157695_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Alolan Diglett 78/156](https://www.tcgplayer.com/product/157695)<br>**Set:** SM - Ultra Prism<br>**Rarity:** Common ●<br>**Market:** $0.28 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/178937_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Alolan Diglett 122/214](https://www.tcgplayer.com/product/178937)<br>**Set:** SM - Lost Thunder<br>**Rarity:** Common ●<br>**Market:** $0.28 |
+| ![Design U\|300](https://tcgplayer-cdn.tcgplayer.com/product/189184_in_1000x1000.jpg) | **Design:** U<br>**Card #:** [Diglett 85/214](https://www.tcgplayer.com/product/189184)<br>**Set:** SM - Unbroken Bonds<br>**Rarity:** Common ●<br>**Market:** $0.23 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/189220_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Alolan Diglett 121/214](https://www.tcgplayer.com/product/189220)<br>**Set:** SM - Unbroken Bonds<br>**Rarity:** Common ●<br>**Market:** $0.20 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/208401_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Diglett 092/202](https://www.tcgplayer.com/product/208401)<br>**Set:** SWSH01: Sword & Shield Base Set<br>**Rarity:** Common ●<br>**Market:** $0.30 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/219471_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Diglett 084/189](https://www.tcgplayer.com/product/219471)<br>**Set:** SWSH03: Darkness Ablaze<br>**Rarity:** Common ●<br>**Market:** $0.18 |
+| ![Design Y\|300](https://tcgplayer-cdn.tcgplayer.com/product/241741_in_1000x1000.jpg) | **Design:** Y<br>**Card #:** [Diglett 076/198](https://www.tcgplayer.com/product/241741)<br>**Set:** SWSH06: Chilling Reign<br>**Rarity:** Common ●<br>**Market:** $0.13 |
+| ![Design Z\|300](https://tcgplayer-cdn.tcgplayer.com/product/509790_in_1000x1000.jpg) | **Design:** Z<br>**Card #:** [Diglett 103/197](https://www.tcgplayer.com/product/509790)<br>**Set:** SV03: Obsidian Flames<br>**Rarity:** Common ●<br>**Market:** $0.16 |
+| ![Design AA\|300](https://tcgplayer-cdn.tcgplayer.com/product/516215_in_1000x1000.jpg) | **Design:** AA<br>**Card #:** [Diglett 050/165](https://www.tcgplayer.com/product/516215)<br>**Set:** SV: Scarlet & Violet 151<br>**Rarity:** Common ●<br>**Market:** $0.18 |
+| ![Design AB\|300](https://tcgplayer-cdn.tcgplayer.com/product/589855_in_1000x1000.jpg) | **Design:** AB<br>**Card #:** [Alolan Diglett 122/191](https://www.tcgplayer.com/product/589855)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Common ●<br>**Market:** $0.15 |
+| ![Design AC\|300](https://tcgplayer-cdn.tcgplayer.com/product/675912_in_1000x1000.jpg) | **Design:** AC<br>**Card #:** [Team Rocket's Diglett 100/217](https://www.tcgplayer.com/product/675912)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Common ●<br>**Market:** $0.14 |
+| ![Design AC\|300](https://tcgplayer-cdn.tcgplayer.com/product/675912_in_1000x1000.jpg) | **Design:** AC<br>**Card #:** [Team Rocket's Diglett (Team Rocket) 100/217](https://www.tcgplayer.com/product/676932)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Common ●<br>**Market:** $0.24 |
+| ![Design AC\|300](https://tcgplayer-cdn.tcgplayer.com/product/675912_in_1000x1000.jpg) | **Design:** AC<br>**Card #:** [Team Rocket's Diglett (Energy Symbol Pattern) 100/217](https://www.tcgplayer.com/product/677072)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Common ●<br>**Market:** $0.21 |

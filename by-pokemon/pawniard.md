@@ -1,0 +1,39 @@
+# Pawniard
+
+English products: **29** across **20** sets
+
+Unique designs: **24**
+
+**Last updated:** 2026-11-25 22:45
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/87967_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Pawniard (75)](https://www.tcgplayer.com/product/87967)<br>**Set:** Noble Victories<br>**Rarity:** Common ●<br>**Market:** $0.40 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/87968_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Pawniard (81)](https://www.tcgplayer.com/product/87968)<br>**Set:** Noble Victories<br>**Rarity:** Common ●<br>**Market:** $0.54 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/87969_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Pawniard 78/108](https://www.tcgplayer.com/product/87969)<br>**Set:** Dark Explorers<br>**Rarity:** Common ●<br>**Market:** $0.32 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/87970_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Pawniard (71)](https://www.tcgplayer.com/product/87970)<br>**Set:** Plasma Freeze<br>**Rarity:** Common ●<br>**Market:** $0.25 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/87971_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Pawniard (72)](https://www.tcgplayer.com/product/87971)<br>**Set:** Plasma Freeze<br>**Rarity:** Common ●<br>**Market:** $0.28 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/87972_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Pawniard 81/146](https://www.tcgplayer.com/product/87972)<br>**Set:** XY Base Set<br>**Rarity:** Common ●<br>**Market:** $0.20 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/87973_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Pawniard 19/39](https://www.tcgplayer.com/product/87973)<br>**Set:** Kalos Starter Set<br>**Rarity:** Common ●<br>**Market:** $0.44 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/98162_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Pawniard (#13) 13/30](https://www.tcgplayer.com/product/98162)<br>**Set:** XY Trainer Kit: Bisharp & Wigglytuff<br>**Rarity:** Common ●<br>**Market:** $0.52 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/98169_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Pawniard (#21) 21/30](https://www.tcgplayer.com/product/98169)<br>**Set:** XY Trainer Kit: Bisharp & Wigglytuff<br>**Rarity:** Common ●<br>**Market:** $0.65 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/121193_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Pawniard 63/114](https://www.tcgplayer.com/product/121193)<br>**Set:** XY - Steam Siege<br>**Rarity:** Common ●<br>**Market:** $0.11 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/183886_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Pawniard 104/181](https://www.tcgplayer.com/product/183886)<br>**Set:** SM - Team Up<br>**Rarity:** Common ●<br>**Market:** $0.21 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/201178_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Pawniard 134/236](https://www.tcgplayer.com/product/201178)<br>**Set:** SM - Cosmic Eclipse<br>**Rarity:** Common ●<br>**Market:** $0.20 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/208444_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Pawniard 133/202](https://www.tcgplayer.com/product/208444)<br>**Set:** SWSH01: Sword & Shield Base Set<br>**Rarity:** Common ●<br>**Market:** $0.09 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/234190_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Pawniard 103/163](https://www.tcgplayer.com/product/234190)<br>**Set:** SWSH05: Battle Styles<br>**Rarity:** Common ●<br>**Market:** $0.12 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/272343_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Pawniard 115/189](https://www.tcgplayer.com/product/272343)<br>**Set:** SWSH10: Astral Radiance<br>**Rarity:** Common ●<br>**Market:** $0.21 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/478229_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Pawniard (91) 091/159](https://www.tcgplayer.com/product/478229)<br>**Set:** SWSH: Crown Zenith<br>**Rarity:** Common ●<br>**Market:** $0.09 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/478230_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Pawniard (92) 092/159](https://www.tcgplayer.com/product/478230)<br>**Set:** SWSH: Crown Zenith<br>**Rarity:** Common ●<br>**Market:** $0.14 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/488021_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Pawniard 132/198](https://www.tcgplayer.com/product/488021)<br>**Set:** SV01: Scarlet & Violet Base Set<br>**Rarity:** Common ●<br>**Market:** $0.13 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/509935_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Pawniard 148/197](https://www.tcgplayer.com/product/509935)<br>**Set:** SV03: Obsidian Flames<br>**Rarity:** Common ●<br>**Market:** $0.08 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/509935_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Pawniard - 148/197 (Cosmos Holo)](https://www.tcgplayer.com/product/562090)<br>**Set:** Miscellaneous Cards & Products<br>**Rarity:** Promo<br>**Market:** $0.30 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/535126_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Pawniard 185/091](https://www.tcgplayer.com/product/535126)<br>**Set:** SV: Paldean Fates<br>**Rarity:** Shiny Rare Gold ✦<br>**Market:** $2.91 |
+| ![Design U\|300](https://tcgplayer-cdn.tcgplayer.com/product/556854_in_1000x1000.jpg) | **Design:** U<br>**Card #:** [Pawniard - Darkrai Deck 111](https://www.tcgplayer.com/product/556854)<br>**Set:** Battle Academy 2024<br>**Rarity:** Promo<br>**Market:** $0.15 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/642515_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Pawniard 064/086](https://www.tcgplayer.com/product/642515)<br>**Set:** SV: Black Bolt<br>**Rarity:** Common ●<br>**Market:** $0.12 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/642515_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Pawniard (Master Ball Pattern) 064/086](https://www.tcgplayer.com/product/642684)<br>**Set:** SV: Black Bolt<br>**Rarity:** Common ●<br>**Market:** $1.58 |
+| ![Design V\|300](https://tcgplayer-cdn.tcgplayer.com/product/642515_in_1000x1000.jpg) | **Design:** V<br>**Card #:** [Pawniard (Poke Ball Pattern) 064/086](https://www.tcgplayer.com/product/642757)<br>**Set:** SV: Black Bolt<br>**Rarity:** Common ●<br>**Market:** $0.34 |
+| ![Design W\|300](https://tcgplayer-cdn.tcgplayer.com/product/642596_in_1000x1000.jpg) | **Design:** W<br>**Card #:** [Pawniard - 142/086](https://www.tcgplayer.com/product/642596)<br>**Set:** SV: Black Bolt<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $5.93 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/675958_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Pawniard 146/217](https://www.tcgplayer.com/product/675958)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Common ●<br>**Market:** $0.11 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/675958_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Pawniard (Quick Ball) 146/217](https://www.tcgplayer.com/product/676966)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Common ●<br>**Market:** $0.19 |
+| ![Design X\|300](https://tcgplayer-cdn.tcgplayer.com/product/675958_in_1000x1000.jpg) | **Design:** X<br>**Card #:** [Pawniard (Energy Symbol Pattern) 146/217](https://www.tcgplayer.com/product/677106)<br>**Set:** ME: Ascended Heroes<br>**Rarity:** Common ●<br>**Market:** $0.19 |
