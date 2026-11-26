@@ -1,0 +1,38 @@
+# Blitzle — English Card List (TCGplayer)
+
+English products: **28** across **17** sets
+
+Unique designs: **20**
+
+**Last updated:** 2026-11-25 22:45
+
+| Card | Summary |
+| --- | --- |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/83927_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Blitzle (40)](https://www.tcgplayer.com/product/83927)<br>**Set:** Black and White<br>**Rarity:** Common ●<br>**Market:** $0.27 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/83928_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Blitzle (41)](https://www.tcgplayer.com/product/83928)<br>**Set:** Black and White<br>**Rarity:** Common ●<br>**Market:** $0.29 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/83929_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Blitzle - 6/12 006/012](https://www.tcgplayer.com/product/83929)<br>**Set:** McDonald's Promos 2011<br>**Rarity:** Promo<br>**Market:** $5.00 |
+| ![Design D\|300](https://tcgplayer-cdn.tcgplayer.com/product/83930_in_1000x1000.jpg) | **Design:** D<br>**Card #:** [Blitzle 35/101](https://www.tcgplayer.com/product/83930)<br>**Set:** Noble Victories<br>**Rarity:** Common ●<br>**Market:** $0.94 |
+| ![Design E\|300](https://tcgplayer-cdn.tcgplayer.com/product/83931_in_1000x1000.jpg) | **Design:** E<br>**Card #:** [Blitzle 47/99](https://www.tcgplayer.com/product/83931)<br>**Set:** Next Destinies<br>**Rarity:** Common ●<br>**Market:** $0.27 |
+| ![Design F\|300](https://tcgplayer-cdn.tcgplayer.com/product/83932_in_1000x1000.jpg) | **Design:** F<br>**Card #:** [Blitzle 56/149](https://www.tcgplayer.com/product/83932)<br>**Set:** Boundaries Crossed<br>**Rarity:** Common ●<br>**Market:** $0.29 |
+| ![Design G\|300](https://tcgplayer-cdn.tcgplayer.com/product/111555_in_1000x1000.jpg) | **Design:** G<br>**Card #:** [Blitzle 48/122](https://www.tcgplayer.com/product/111555)<br>**Set:** XY - BREAKpoint<br>**Rarity:** Common ●<br>**Market:** $0.26 |
+| ![Design H\|300](https://tcgplayer-cdn.tcgplayer.com/product/118815_in_1000x1000.jpg) | **Design:** H<br>**Card #:** [Blitzle (12)](https://www.tcgplayer.com/product/118815)<br>**Set:** XY Trainer Kit: Pikachu Libre & Suicune<br>**Rarity:** Common ●<br>**Market:** $0.29 |
+| ![Design I\|300](https://tcgplayer-cdn.tcgplayer.com/product/118816_in_1000x1000.jpg) | **Design:** I<br>**Card #:** [Blitzle (26)](https://www.tcgplayer.com/product/118816)<br>**Set:** XY Trainer Kit: Pikachu Libre & Suicune<br>**Rarity:** Common ●<br>**Market:** $0.27 |
+| ![Design J\|300](https://tcgplayer-cdn.tcgplayer.com/product/178890_in_1000x1000.jpg) | **Design:** J<br>**Card #:** [Blitzle 81/214](https://www.tcgplayer.com/product/178890)<br>**Set:** SM - Lost Thunder<br>**Rarity:** Common ●<br>**Market:** $0.18 |
+| ![Design K\|300](https://tcgplayer-cdn.tcgplayer.com/product/183819_in_1000x1000.jpg) | **Design:** K<br>**Card #:** [Blitzle 44/181](https://www.tcgplayer.com/product/183819)<br>**Set:** SM - Team Up<br>**Rarity:** Common ●<br>**Market:** $0.16 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/219108_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Blitzle - 81/214 (#1 Pikachu Stamped) 081/214](https://www.tcgplayer.com/product/219108)<br>**Set:** Battle Academy<br>**Rarity:** Promo<br>**Market:** $0.22 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/219108_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Blitzle - 81/214 (#19 Pikachu Stamped) 081/214](https://www.tcgplayer.com/product/219109)<br>**Set:** Battle Academy<br>**Rarity:** Promo<br>**Market:** $0.18 |
+| ![Design L\|300](https://tcgplayer-cdn.tcgplayer.com/product/219108_in_1000x1000.jpg) | **Design:** L<br>**Card #:** [Blitzle - 81/214 (#45 Pikachu Stamped) 081/214](https://www.tcgplayer.com/product/219110)<br>**Set:** Battle Academy<br>**Rarity:** Promo<br>**Market:** $0.18 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/226449_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Blitzle 053/185](https://www.tcgplayer.com/product/226449)<br>**Set:** SWSH04: Vivid Voltage<br>**Rarity:** Common ●<br>**Market:** $0.10 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/226449_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Blitzle - 053/185 (#2 Pikachu Stamped)](https://www.tcgplayer.com/product/268169)<br>**Set:** Battle Academy 2022<br>**Rarity:** Promo<br>**Market:** $0.26 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/226449_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Blitzle - 053/185 (#15 Pikachu Stamped)](https://www.tcgplayer.com/product/268170)<br>**Set:** Battle Academy 2022<br>**Rarity:** Promo<br>**Market:** $0.23 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/226449_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Blitzle - 053/185 (#30 Pikachu Stamped)](https://www.tcgplayer.com/product/268171)<br>**Set:** Battle Academy 2022<br>**Rarity:** Promo<br>**Market:** $0.16 |
+| ![Design M\|300](https://tcgplayer-cdn.tcgplayer.com/product/226449_in_1000x1000.jpg) | **Design:** M<br>**Card #:** [Blitzle - 053/185 (#55 Pikachu Stamped)](https://www.tcgplayer.com/product/268172)<br>**Set:** Battle Academy 2022<br>**Rarity:** Promo<br>**Market:** $0.22 |
+| ![Design N\|300](https://tcgplayer-cdn.tcgplayer.com/product/241707_in_1000x1000.jpg) | **Design:** N<br>**Card #:** [Blitzle 050/198](https://www.tcgplayer.com/product/241707)<br>**Set:** SWSH06: Chilling Reign<br>**Rarity:** Common ●<br>**Market:** $0.13 |
+| ![Design O\|300](https://tcgplayer-cdn.tcgplayer.com/product/253409_in_1000x1000.jpg) | **Design:** O<br>**Card #:** [Blitzle - SWSH173](https://www.tcgplayer.com/product/253409)<br>**Set:** SWSH: Sword & Shield Promo Cards<br>**Rarity:** Promo<br>**Market:** $0.45 |
+| ![Design P\|300](https://tcgplayer-cdn.tcgplayer.com/product/523675_in_1000x1000.jpg) | **Design:** P<br>**Card #:** [Blitzle - 062/182](https://www.tcgplayer.com/product/523675)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Common ●<br>**Market:** $0.23 |
+| ![Design Q\|300](https://tcgplayer-cdn.tcgplayer.com/product/523876_in_1000x1000.jpg) | **Design:** Q<br>**Card #:** [Blitzle - 195/182](https://www.tcgplayer.com/product/523876)<br>**Set:** SV04: Paradox Rift<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $10.46 |
+| ![Design R\|300](https://tcgplayer-cdn.tcgplayer.com/product/589876_in_1000x1000.jpg) | **Design:** R<br>**Card #:** [Blitzle 062/191](https://www.tcgplayer.com/product/589876)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Common ●<br>**Market:** $0.11 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/642143_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Blitzle 031/086](https://www.tcgplayer.com/product/642143)<br>**Set:** SV: White Flare<br>**Rarity:** Common ●<br>**Market:** $0.14 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/642143_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Blitzle (Master Ball Pattern) 031/086](https://www.tcgplayer.com/product/642314)<br>**Set:** SV: White Flare<br>**Rarity:** Common ●<br>**Market:** $3.36 |
+| ![Design S\|300](https://tcgplayer-cdn.tcgplayer.com/product/642143_in_1000x1000.jpg) | **Design:** S<br>**Card #:** [Blitzle (Poke Ball Pattern) 031/086](https://www.tcgplayer.com/product/642386)<br>**Set:** SV: White Flare<br>**Rarity:** Common ●<br>**Market:** $0.23 |
+| ![Design T\|300](https://tcgplayer-cdn.tcgplayer.com/product/642226_in_1000x1000.jpg) | **Design:** T<br>**Card #:** [Blitzle - 114/086](https://www.tcgplayer.com/product/642226)<br>**Set:** SV: White Flare<br>**Rarity:** Illustration Rare Gold ★<br>**Market:** $9.19 |
