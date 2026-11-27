@@ -5,7 +5,7 @@ layout: page
 
 # Pokémon card lists
 
-2,118 card lists in five sections, English printings, market prices.
+2,119 card lists in five sections, English printings, market prices.
 
 <div class="hub">
   <a class="hub-card" href="pokemon.html">
@@ -30,7 +30,7 @@ layout: page
   </a>
   <a class="hub-card" href="rarities.html">
     <span class="hub-name">Rarities</span>
-    <span class="hub-count">23 card lists</span>
+    <span class="hub-count">24 card lists</span>
     <span class="hub-note">One list per rarity</span>
   </a>
 </div>

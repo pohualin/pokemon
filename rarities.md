@@ -5,7 +5,7 @@ layout: page
 
 # Rarity card lists
 
-23 card lists — one list per rarity.
+24 card lists — one list per rarity.
 
 {% include jump.html folder="by-rarity/" label="Choose a Rarity…" %}
 
@@ -32,5 +32,6 @@ layout: page
 <a class="card" href="by-rarity/shiny-rare.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/534459_in_400x400.jpg" srcset="https://tcgplayer-cdn.tcgplayer.com/product/534459_in_400x400.jpg 291w, https://tcgplayer-cdn.tcgplayer.com/product/534459_in_1000x1000.jpg 719w" sizes="(max-width: 600px) 96px, 180px" width="180" height="247" alt="Shiny Rare" loading="lazy" decoding="async"><span class="card-name">Shiny Rare</span><span class="card-meta">120 products in 1 set, 120 designs</span></a>
 <a class="card" href="by-rarity/shiny-ultra-rare.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/535297_in_400x400.jpg" srcset="https://tcgplayer-cdn.tcgplayer.com/product/535297_in_400x400.jpg 291w, https://tcgplayer-cdn.tcgplayer.com/product/535297_in_1000x1000.jpg 719w" sizes="(max-width: 600px) 96px, 180px" width="180" height="247" alt="Shiny Ultra Rare" loading="lazy" decoding="async"><span class="card-name">Shiny Ultra Rare</span><span class="card-meta">12 products in 1 set, 12 designs</span></a>
 <a class="card" href="by-rarity/special-illustration-rare.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/487147_in_400x400.jpg" srcset="https://tcgplayer-cdn.tcgplayer.com/product/487147_in_400x400.jpg 291w, https://tcgplayer-cdn.tcgplayer.com/product/487147_in_1000x1000.jpg 719w" sizes="(max-width: 600px) 96px, 180px" width="180" height="247" alt="Special Illustration Rare" loading="lazy" decoding="async"><span class="card-name">Special Illustration Rare</span><span class="card-meta">238 products across 24 sets, 238 designs</span></a>
-<a class="card" href="by-rarity/ultra-rare.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/451834_in_400x400.jpg" srcset="https://tcgplayer-cdn.tcgplayer.com/product/451834_in_400x400.jpg 291w, https://tcgplayer-cdn.tcgplayer.com/product/451834_in_1000x1000.jpg 719w" sizes="(max-width: 600px) 96px, 180px" width="180" height="247" alt="Ultra Rare" loading="lazy" decoding="async"><span class="card-name">Ultra Rare</span><span class="card-meta">2,558 products across 129 sets, 2,442 designs</span></a>
+<a class="card" href="by-rarity/ultra-rare.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/87427_in_400x400.jpg" srcset="https://tcgplayer-cdn.tcgplayer.com/product/87427_in_400x400.jpg 291w, https://tcgplayer-cdn.tcgplayer.com/product/87427_in_1000x1000.jpg 719w" sizes="(max-width: 600px) 96px, 180px" width="180" height="247" alt="Ultra Rare" loading="lazy" decoding="async"><span class="card-name">Ultra Rare</span><span class="card-meta">1,830 products across 125 sets, 1,714 designs</span></a>
+<a class="card" href="by-rarity/ultra-rare-full-art.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/183899_in_400x400.jpg" srcset="https://tcgplayer-cdn.tcgplayer.com/product/183899_in_400x400.jpg 291w, https://tcgplayer-cdn.tcgplayer.com/product/183899_in_1000x1000.jpg 719w" sizes="(max-width: 600px) 96px, 180px" width="180" height="247" alt="Ultra Rare Full Art" loading="lazy" decoding="async"><span class="card-name">Ultra Rare Full Art</span><span class="card-meta">728 products across 57 sets, 728 designs</span></a>
 </div>
