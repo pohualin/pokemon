@@ -5,7 +5,7 @@ layout: page
 
 # Stadium card lists
 
-207 card lists — Stadium cards by name.
+208 card lists — Stadium cards by name.
 
 {% include jump.html folder="by-stadium/" label="Choose a Stadium…" %}
 
@@ -304,6 +304,10 @@ layout: page
 <a href="by-stadium/granite-cave.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/632968_in_1000x1000.jpg" width="180"></a>
 
 [Granite Cave](by-stadium/granite-cave.html) — 1 product in 1 set, 1 design
+
+<a href="by-stadium/gravity-mountain.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/589961_in_1000x1000.jpg" width="180"></a>
+
+[Gravity Mountain](by-stadium/gravity-mountain.html) — 3 products across 2 sets, 2 designs
 
 <a href="by-stadium/healing-field.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/86041_in_1000x1000.jpg" width="180"></a>
 

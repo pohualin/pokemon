@@ -5,7 +5,7 @@ layout: page
 
 # Pokémon card lists
 
-1,026 card lists — every English printing, by species.
+1,024 card lists — every English printing, by species.
 
 {% include jump.html folder="by-pokemon/" label="Choose a Pokémon…" %}
 
@@ -292,10 +292,6 @@ layout: page
 <a href="by-pokemon/blacephalon.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/178857_in_1000x1000.jpg" width="180"></a>
 
 [Blacephalon](by-pokemon/blacephalon.html) — 8 products across 5 sets, 6 designs
-
-<a href="by-pokemon/black-belts-training.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/610451_in_1000x1000.jpg" width="180"></a>
-
-[Black Belt's Training](by-pokemon/black-belts-training.html) — 14 products across 4 sets, 10 designs
 
 <a href="by-pokemon/blastoise.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/42360_in_1000x1000.jpg" width="180"></a>
 
@@ -1456,10 +1452,6 @@ layout: page
 <a href="by-pokemon/graveler.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/44439_in_1000x1000.jpg" width="180"></a>
 
 [Graveler](by-pokemon/graveler.html) — 23 products across 22 sets, 23 designs
-
-<a href="by-pokemon/gravity-mountain.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/589961_in_1000x1000.jpg" width="180"></a>
-
-[Gravity Mountain](by-pokemon/gravity-mountain.html) — 3 products across 2 sets, 2 designs
 
 <a href="by-pokemon/great-tusk.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/488012_in_1000x1000.jpg" width="180"></a>
 

@@ -5,7 +5,7 @@ layout: page
 
 # Trainer card lists
 
-457 card lists — Supporter cards by name.
+458 card lists — Supporter cards by name.
 
 {% include jump.html folder="by-trainer/" label="Choose a Trainer…" %}
 
@@ -172,6 +172,10 @@ layout: page
 <a href="by-trainer/black-belt.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/83850_in_1000x1000.jpg" width="180"></a>
 
 [Black Belt](by-trainer/black-belt.html) — 2 products across 2 sets, 2 designs
+
+<a href="by-trainer/black-belts-training.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/610451_in_1000x1000.jpg" width="180"></a>
+
+[Black Belt's Training](by-trainer/black-belts-training.html) — 14 products across 4 sets, 10 designs
 
 <a href="by-trainer/blacksmith.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/91225_in_1000x1000.jpg" width="180"></a>
 

@@ -4,7 +4,9 @@ English products: **14** across **4** sets
 
 Unique designs: **10**
 
-**Last updated:** 2026-11-25 21:43
+**Card type:** Supporter
+
+**Last updated:** 2026-11-26 18:57
 
 | Card | Summary |
 | --- | --- |

@@ -4,7 +4,9 @@ English products: **3** across **2** sets
 
 Unique designs: **2**
 
-**Last updated:** 2026-11-25 21:43
+**Card type:** Stadium
+
+**Last updated:** 2026-11-26 18:57
 
 | Card | Summary |
 | --- | --- |
