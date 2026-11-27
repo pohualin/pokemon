@@ -79,7 +79,7 @@
 
 /* Section pages list every card note as a tile so the page stays quick to
    scan. Thumbnails are lazy-loaded CDN images: 180px tiles on wide screens,
-   and a compact 64px list under 600px (see the phone block below). */
+   and a compact 96px list under 600px (see the phone block below). */
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -139,20 +139,20 @@
 
   .card {
     display: grid;
-    grid-template-columns: 64px minmax(0, 1fr);
+    grid-template-columns: 96px minmax(0, 1fr);
     grid-template-areas:
       "thumb name"
       "thumb meta";
     align-items: center;
-    column-gap: 12px;
+    column-gap: 14px;
     padding: 9px 0;
     border-bottom: 1px solid #eee;
   }
 
   .card img {
     grid-area: thumb;
-    width: 64px;
-    max-width: 64px;
+    width: 96px;
+    max-width: 96px;
     border-radius: 4px;
   }
 
@@ -193,7 +193,7 @@
 
   .post table tr {
     display: grid;
-    grid-template-columns: 84px minmax(0, 1fr);
+    grid-template-columns: 100px minmax(0, 1fr);
     column-gap: 12px;
     padding: 8px 0;
     border-top: 1px solid #eee;
@@ -208,8 +208,8 @@
   }
 
   .post table td img {
-    width: 84px;
-    max-width: 84px;
+    width: 100px;
+    max-width: 100px;
     height: auto;
     border-radius: 4px;
   }
