@@ -2215,7 +2215,7 @@ layout: page
 
 <a href="by-pokemon/meowscarada.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/497426_in_1000x1000.jpg" width="180"></a>
 
-[Meowscarada](by-pokemon/meowscarada.html) — 13 products across 7 sets, 8 designs
+[Meowscarada](by-pokemon/meowscarada.html) — 13 products across 7 sets, 9 designs
 
 <a href="by-pokemon/meowstic.html"><img src="https://tcgplayer-cdn.tcgplayer.com/product/91176_in_1000x1000.jpg" width="180"></a>
 

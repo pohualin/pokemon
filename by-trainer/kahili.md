@@ -6,9 +6,9 @@ Unique designs: **2**
 
 **Card type:** Supporter
 
-**Last updated:** 2026-11-25 23:27
+**Last updated:** 2026-11-26 21:45
 
 | Card | Summary |
 | --- | --- |
-| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/179008_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Kahili 179/214](https://www.tcgplayer.com/product/179008)<br>**Set:** SM - Lost Thunder<br>**Rarity:** Uncommon ◆<br>**Market:** $0.21 |
-| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/179009_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Kahili (Full Art) 210/214](https://www.tcgplayer.com/product/179009)<br>**Set:** SM - Lost Thunder<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $56.01 |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/179009_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Kahili (Full Art) 210/214](https://www.tcgplayer.com/product/179009)<br>**Set:** SM - Lost Thunder<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $56.01 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/179008_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Kahili 179/214](https://www.tcgplayer.com/product/179008)<br>**Set:** SM - Lost Thunder<br>**Rarity:** Uncommon ◆<br>**Market:** $0.21 |

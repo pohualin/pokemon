@@ -6,9 +6,9 @@ Unique designs: **2**
 
 **Card type:** Supporter
 
-**Last updated:** 2026-11-25 23:27
+**Last updated:** 2026-11-26 21:45
 
 | Card | Summary |
 | --- | --- |
-| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/183935_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Evelyn 141/181](https://www.tcgplayer.com/product/183935)<br>**Set:** SM - Team Up<br>**Rarity:** Uncommon ◆<br>**Market:** $0.23 |
-| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/183936_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Evelyn (Full Art) 175/181](https://www.tcgplayer.com/product/183936)<br>**Set:** SM - Team Up<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $60.07 |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/183936_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Evelyn (Full Art) 175/181](https://www.tcgplayer.com/product/183936)<br>**Set:** SM - Team Up<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $60.07 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/183935_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Evelyn 141/181](https://www.tcgplayer.com/product/183935)<br>**Set:** SM - Team Up<br>**Rarity:** Uncommon ◆<br>**Market:** $0.23 |

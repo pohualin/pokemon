@@ -6,9 +6,9 @@ Unique designs: **2**
 
 **Card type:** Supporter
 
-**Last updated:** 2026-11-25 23:27
+**Last updated:** 2026-11-26 21:45
 
 | Card | Summary |
 | --- | --- |
-| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/201319_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Mallow & Lana 198/236](https://www.tcgplayer.com/product/201319)<br>**Set:** SM - Cosmic Eclipse<br>**Rarity:** Uncommon ◆<br>**Market:** $0.34 |
-| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/201345_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Mallow & Lana (Full Art) 231/236](https://www.tcgplayer.com/product/201345)<br>**Set:** SM - Cosmic Eclipse<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $103.48 |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/201345_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Mallow & Lana (Full Art) 231/236](https://www.tcgplayer.com/product/201345)<br>**Set:** SM - Cosmic Eclipse<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $103.48 |
+| ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/201319_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Mallow & Lana 198/236](https://www.tcgplayer.com/product/201319)<br>**Set:** SM - Cosmic Eclipse<br>**Rarity:** Uncommon ◆<br>**Market:** $0.34 |

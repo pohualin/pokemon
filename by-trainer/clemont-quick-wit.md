@@ -6,10 +6,10 @@ Unique designs: **3**
 
 **Card type:** Supporter
 
-**Last updated:** 2026-11-25 23:27
+**Last updated:** 2026-11-26 21:45
 
 | Card | Summary |
 | --- | --- |
-| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/589900_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Clemont's Quick Wit - 167/191](https://www.tcgplayer.com/product/589900)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Uncommon ◆<br>**Market:** $0.13 |
+| ![Design A\|300](https://tcgplayer-cdn.tcgplayer.com/product/589902_in_1000x1000.jpg) | **Design:** A<br>**Card #:** [Clemont's Quick Wit - 243/191](https://www.tcgplayer.com/product/589902)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Special Illustration Rare Gold ★★<br>**Market:** $6.22 |
 | ![Design B\|300](https://tcgplayer-cdn.tcgplayer.com/product/589901_in_1000x1000.jpg) | **Design:** B<br>**Card #:** [Clemont's Quick Wit - 229/191](https://www.tcgplayer.com/product/589901)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Ultra Rare Silver ★★<br>**Market:** $0.89 |
-| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/589902_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Clemont's Quick Wit - 243/191](https://www.tcgplayer.com/product/589902)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Special Illustration Rare Gold ★★<br>**Market:** $6.22 |
+| ![Design C\|300](https://tcgplayer-cdn.tcgplayer.com/product/589900_in_1000x1000.jpg) | **Design:** C<br>**Card #:** [Clemont's Quick Wit - 167/191](https://www.tcgplayer.com/product/589900)<br>**Set:** SV08: Surging Sparks<br>**Rarity:** Uncommon ◆<br>**Market:** $0.13 |
