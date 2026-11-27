@@ -77,9 +77,9 @@
   border-radius: 4px;
 }
 
-/* Section pages list every card note as a tile, so the page stays readable
-   and quick to scan at phone width. Thumbnails are lazy-loaded 400px CDN
-   images shown at 180px. */
+/* Section pages list every card note as a tile so the page stays quick to
+   scan. Thumbnails are lazy-loaded CDN images: 180px tiles on wide screens,
+   and a compact 64px list under 600px (see the phone block below). */
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -128,20 +128,99 @@
   color: #666;
 }
 
-@media screen and (max-width: 480px) {
+/* On a phone the section pages become a plain list — a small thumbnail with
+   the name and counts beside it — instead of a two-column wall of tall card
+   art. The grid is one column of rows, so the eye scans names, not pictures. */
+@media screen and (max-width: 600px) {
   .cards {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 18px 12px;
+    display: block;
+    margin: 18px 0 8px;
+  }
+
+  .card {
+    display: grid;
+    grid-template-columns: 64px minmax(0, 1fr);
+    grid-template-areas:
+      "thumb name"
+      "thumb meta";
+    align-items: center;
+    column-gap: 12px;
+    padding: 9px 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  .card img {
+    grid-area: thumb;
+    width: 64px;
+    max-width: 64px;
+    border-radius: 4px;
   }
 
   .card-name {
-    font-size: 15px;
+    grid-area: name;
+    align-self: end;
+    font-size: 16px;
+    line-height: 1.25;
+    letter-spacing: 0;
   }
 
   .card-meta {
-    font-size: 12px;
+    grid-area: meta;
+    align-self: start;
+    font-size: 13px;
+    line-height: 1.3;
   }
 
+  /* Note tables have a card image and a summary side by side. On a phone the
+     summary gets too narrow, so each row stacks: thumbnail on the left, the
+     labeled lines filling the rest of the width. */
+  .post table {
+    display: block;
+    width: 100%;
+    margin: 14px 0;
+    border: 0;
+  }
+
+  .post table thead {
+    display: none;
+  }
+
+  .post table tbody,
+  .post table td {
+    display: block;
+    width: auto;
+  }
+
+  .post table tr {
+    display: grid;
+    grid-template-columns: 84px minmax(0, 1fr);
+    column-gap: 12px;
+    padding: 8px 0;
+    border-top: 1px solid #eee;
+    background: transparent;
+  }
+
+  .post table td {
+    min-width: 0;
+    padding: 0;
+    border: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .post table td img {
+    width: 84px;
+    max-width: 84px;
+    height: auto;
+    border-radius: 4px;
+  }
+
+  .post table td:last-child {
+    font-size: 13px;
+    line-height: 1.45;
+  }
+}
+
+@media screen and (max-width: 480px) {
   .hub {
     gap: 12px;
     margin: 20px 0;
